@@ -1,3 +1,40 @@
+Laravel-Test
+
+Blogging App - Laravel Pull all the files if any dependency problem or file autoload problems occurs, run
+
+composer.phar install
+
+or run
+
+composer update
+
+composer dump-autoload
+
+to install migration and seed the data
+
+run php artisan migrate
+
+php artisan db:seed
+
+php artisan db:seed --class=BlogsTableSeeder
+
+php artisan db:seed --class=UsersTableSeeder
+
+This should run the app if any problem to run or configure the application , please email - ersandeepthapa@gmail.com I have also kept the mysql file if in case you need it. database name : blog
+
+Pagination shows only 2 blogs per page at a time right now to just show an idea of pagination, in real we would want at least 10 or 15 blogs per page.
+
+You can register a user yourself if in case migration and seeders of data do not work. I have still put the mysql file if needed.
+
+
+My assumption is that I am not gonna be judged for designing skill or my skill or get interactive User Interface and User Experience, I have intuitive ways of doing UI and UX but for this simple app, I focussed only on basic core functionalities and not UI and UX.
+
+I am more of 70% developer/programmer and I would like to be judged that way,  and would like to focus my career towards being a developer and not a designer, however, I am open for any challenge right now and more than willing to contribute in any way I can.
+
+I am sure with my hard work and skill, I can prove my worth.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
