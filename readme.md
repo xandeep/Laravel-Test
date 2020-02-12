@@ -31,9 +31,6 @@ My assumption is that I am not gonna be judged for designing skill or my skill o
 
 I am more of 70% developer/programmer and I would like to be judged that way,  and would like to focus my career towards being a developer and not a designer, however, I am open for any challenge right now and more than willing to contribute in any way I can.
 
-I am sure with my hard work and skill, I can prove my worth.
-
-
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
